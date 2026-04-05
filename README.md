@@ -134,6 +134,16 @@ SlayTheSpire2-ModPack/
 
 ---
 
+## Keywords
+
+slay the spire 2 fps boost, slay the spire 2 mod pack 2026,
+sts2 performance mods, slay the spire 2 animation speed,
+slay the spire 2 best mods, sts2 steam deck optimization,
+slay the spire 2 fps unlocker, slay the spire 2 tweaks,
+slay the spire 2 ui mod, sts2 visual mods, slay the spire 2 faster runs,
+slay the spire 2 load time fix, slay the spire 2 card rendering,
+best mods slay the spire 2 2026, sts2 nexus mods
+
 ## 📜 License
 
 MIT License — shared for educational purposes only.
