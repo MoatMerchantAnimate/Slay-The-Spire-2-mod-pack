@@ -1,6 +1,6 @@
 
 
-# 🃏 Slay the Spire 2 Mod Pack 2026 — Performance Boost & Visual Tweaks 🃏
+# 🃏🃏 Slay the Spire 2 Mod Pack 2026 — Performance Boost & Visual Tweaks 🃏🃏
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/SlayTheSpire2-Mod-Pack)](https://github.com/Alexantros341/SlayTheSpire2-Mod-Pack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
